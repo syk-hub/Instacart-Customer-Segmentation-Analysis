@@ -3,6 +3,9 @@
 ## Overview
 This project explores customer purchasing patterns using Instacart transaction data. By analyzing customer segments and shopping behaviors, the project provides actionable insights that can inform targeted marketing strategies and improve customer retention.
 
+### Project Motivation
+Understanding customer behavior is essential in today’s data-driven market. With Instacart’s vast transaction data, this project leverages customer segmentation to reveal purchasing patterns, enabling targeted marketing strategies and improving customer retention. Insights from this analysis can help Instacart cater more effectively to diverse customer needs, enhancing satisfaction and driving revenue.
+
 ## Data Access
 
 - **Raw Data**: The original data files used in this project are available on Google Drive due to file size limitations. You can access the raw data [here](https://drive.google.com/drive/folders/1QUs8gjBmcwagTgJWZtXtdwBuoGm_DRxy?usp=sharing).
@@ -34,4 +37,11 @@ The interactive Tableau dashboard presents key insights from the analysis, allow
 - **`data/` folder**: Contains the cleaned, processed datasets used for analysis.
 - **`data_preparation.ipynb`**: Jupyter Notebook detailing the data cleaning and preparation process.
 - **Tableau Dashboard**: Linked above, showcasing the interactive visualizations and insights.
+
+### Future Work and Limitations
+- **Data Gaps**: The dataset lacks transaction timestamps, limiting in-depth time-series analysis.
+- **Advanced Modeling**: Future work could incorporate machine learning models for improved churn prediction and customer value forecasting.
+- **Expanded Segmentation**: Including demographic or geographic data would enable more targeted marketing strategies.
+- **Seasonal Trends**: A longer-term dataset would allow for seasonal trend analysis, enhancing inventory and promotion strategies.
+
 
