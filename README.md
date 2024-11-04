@@ -44,6 +44,12 @@ Data cleaning, segmentation, and formatting were conducted in Python using Jupyt
 ## Dashboard
 The interactive Tableau dashboard presents key insights from the analysis, allowing for exploration of customer segments and shopping trends. You can view the dashboard on Tableau Public [here](https://your-tableau-link).
 
+## Dashboard
+The interactive Tableau dashboard presents key insights from the analysis, allowing for exploration of customer segments and shopping trends. You can view the full interactive dashboard on Tableau Public [here](https://public.tableau.com/shared/N33HTB89X?:display_count=n&:origin=viz_share_link).
+
+![Dashboard Preview](path/to/your-image.png)
+
+
 ### Key Dashboard Components
 1. **Customer Segmentation Overview**: Provides a visual breakdown of customer segments by Recency, Frequency, and Monetary (RFM) scores.
 2. **Top Products by Segment**: Displays the most purchased products for each segment to inform targeted product recommendations.
