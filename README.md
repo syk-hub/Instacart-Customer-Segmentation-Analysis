@@ -16,7 +16,7 @@ This project explores customer purchasing patterns using Instacart transaction d
 ## Technology and Tools
 ## Data Access
 
-- **Raw Data**: The original data files used in this project are available on Google Drive due to file size limitations. You can access the raw data [here](https://drive.google.com/your-raw-data-link).
+- **Raw Data**: The original data files used in this project are available on Google Drive due to file size limitations. You can access the raw data [here](https://drive.google.com/drive/folders/1QUs8gjBmcwagTgJWZtXtdwBuoGm_DRxy?usp=sharing).
   
 - **Prepared Data**: The cleaned and formatted datasets used for analysis are included in this repository under the `data/` folder. These files were processed to facilitate customer segmentation and shopping pattern analysis.
 
