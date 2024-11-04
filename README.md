@@ -14,7 +14,14 @@ This project explores customer purchasing patterns using Instacart transaction d
 - **Retention Strategies for At-Risk Customers**: Re-engage at-risk customers with special offers on products they previously purchased.
 
 ## Technology and Tools
-- **Data Preparation**: Data cleaning, segmentation, and formatting were conducted in Python using Jupyter Notebook. You can view the full notebook with data preparation steps [here](https://github.com/syk-hub/Instacart-Customer-Segmentation-Analysis/blob/main/customer_segmentation_v2.ipynb).
+## Data Access
+
+- **Raw Data**: The original data files used in this project are available on Google Drive due to file size limitations. You can access the raw data [here](https://drive.google.com/your-raw-data-link).
+  
+- **Prepared Data**: The cleaned and formatted datasets used for analysis are included in this repository under the `data/` folder. These files were processed to facilitate customer segmentation and shopping pattern analysis.
+
+## Data Preparation and Tools
+Data cleaning, segmentation, and formatting were conducted in Python using Jupyter Notebook. You can view the full notebook with data preparation steps [here](https://github.com/syk-hub/Instacart-Customer-Segmentation-Analysis/blob/main/customer_segmentation_v2.ipynb).
 
 - **Visualization**: Tableau for creating an interactive dashboard with customer insights.
 
