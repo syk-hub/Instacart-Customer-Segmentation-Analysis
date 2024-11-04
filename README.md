@@ -1,4 +1,4 @@
-# Instacart Customer Segmentation Analysis
+# Instacart Customer Segmentation and Shopping Patterns Analysis
 
 ## Overview
 This project explores customer purchasing patterns using Instacart transaction data. By analyzing customer segments and shopping behaviors, the project provides actionable insights that can inform targeted marketing strategies and improve customer retention.
@@ -25,29 +25,10 @@ Data cleaning, segmentation, and formatting were conducted in Python using Jupyt
 
 - **Visualization**: Tableau for creating an interactive dashboard with customer insights.
 
-## How to View the Dashboard
-You can explore the interactive dashboard on Tableau Public [here](your-tableau-public-link).
-
-# Instacart Customer Segmentation and Shopping Patterns Analysis
-
-## Overview
-This project analyzes customer purchasing patterns using Instacart data. By segmenting customers and exploring their shopping behaviors, the analysis provides insights and recommendations for targeted marketing and improved customer retention strategies.
-
-## Data Access
-- **Raw Data**: The original data files are hosted on Google Drive due to size limitations. You can access them [here](https://drive.google.com/your-raw-data-link).
-  
-- **Prepared Data**: The cleaned and formatted datasets used for analysis are included in this repository under the [`data/` folder](https://github.com/your-username/your-repo-name/tree/main/data). These datasets have been processed to facilitate customer segmentation and shopping pattern analysis.
-
-## Data Preparation and Tools
-Data cleaning, segmentation, and formatting were conducted in Python using Jupyter Notebook. You can view the full notebook with data preparation steps [here](https://github.com/your-username/your-repo-name/blob/main/data_preparation.ipynb).
-
-## Dashboard
-The interactive Tableau dashboard presents key insights from the analysis, allowing for exploration of customer segments and shopping trends. You can view the dashboard on Tableau Public [here](https://your-tableau-link).
-
 ## Dashboard
 The interactive Tableau dashboard presents key insights from the analysis, allowing for exploration of customer segments and shopping trends. You can view the full interactive dashboard on Tableau Public [here](https://public.tableau.com/shared/N33HTB89X?:display_count=n&:origin=viz_share_link).
 
-![Dashboard Preview](path/to/your-image.png)
+![Dashboard Preview](https://github.com/syk-hub/Instacart-Customer-Segmentation-Analysis/blob/main/Instacart%20Customer%20Segmentation%20and%20Shopping%20Patterns.png)
 
 
 ### Key Dashboard Components
