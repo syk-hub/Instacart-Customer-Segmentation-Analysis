@@ -15,6 +15,11 @@ This project explores customer purchasing patterns using Instacart transaction d
 
 ## Technology and Tools
 - **Data Preparation**: Python and Jupyter Notebook for data cleaning and segmentation.
+- ## Data Preparation
+
+The data cleaning and preparation were conducted using Jupyter Notebook, which includes steps for segmenting customers and formatting data for analysis. You can view the full notebook [here](link-to-your-notebook).
+
+
 - **Visualization**: Tableau for creating an interactive dashboard with customer insights.
 
 ## How to View the Dashboard
