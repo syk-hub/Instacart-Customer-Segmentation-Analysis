@@ -1,0 +1,670 @@
+order_dow,order_hour_of_day,segment,order_count
+0,0,At Risk,196
+0,0,High Value,13763
+0,0,Loyal,7967
+0,0,Other,18518
+0,1,At Risk,101
+0,1,High Value,7756
+0,1,Loyal,4322
+0,1,Other,11468
+0,2,At Risk,25
+0,2,High Value,4360
+0,2,Loyal,2401
+0,2,Other,6780
+0,3,At Risk,17
+0,3,High Value,3120
+0,3,Loyal,1651
+0,3,Other,4587
+0,4,At Risk,72
+0,4,High Value,3169
+0,4,Loyal,1386
+0,4,Other,4112
+0,5,At Risk,71
+0,5,High Value,4658
+0,5,Loyal,2336
+0,5,Other,5177
+0,6,At Risk,13
+0,6,High Value,15355
+0,6,Loyal,7712
+0,6,Other,13345
+0,7,At Risk,608
+0,7,High Value,59421
+0,7,Loyal,28855
+0,7,Other,51519
+0,8,At Risk,828
+0,8,High Value,125545
+0,8,Loyal,66390
+0,8,Other,129164
+0,9,At Risk,1300
+0,9,High Value,170062
+0,9,Loyal,94041
+0,9,Other,196933
+0,10,At Risk,2023
+0,10,High Value,186762
+0,10,Loyal,105120
+0,10,Other,249060
+0,11,At Risk,2425
+0,11,High Value,187921
+0,11,Loyal,105709
+0,11,Other,268212
+0,12,At Risk,2221
+0,12,High Value,184761
+0,12,Loyal,105775
+0,12,Other,270263
+0,13,At Risk,3009
+0,13,High Value,196065
+0,13,Loyal,110740
+0,13,Other,277321
+0,14,At Risk,2506
+0,14,High Value,197866
+0,14,Loyal,113255
+0,14,Other,282269
+0,15,At Risk,2781
+0,15,High Value,190125
+0,15,Loyal,109761
+0,15,Other,278620
+0,16,At Risk,2414
+0,16,High Value,174410
+0,16,Loyal,97761
+0,16,Other,253323
+0,17,At Risk,1756
+0,17,High Value,134481
+0,17,Loyal,75750
+0,17,Other,204829
+0,18,At Risk,1508
+0,18,High Value,99443
+0,18,Loyal,53768
+0,18,Other,145376
+0,19,At Risk,890
+0,19,High Value,80555
+0,19,Loyal,41542
+0,19,Other,106060
+0,20,At Risk,1007
+0,20,High Value,73893
+0,20,Loyal,35076
+0,20,Other,82916
+0,21,At Risk,839
+0,21,High Value,62881
+0,21,Loyal,32970
+0,21,Other,64868
+0,22,At Risk,743
+0,22,High Value,47992
+0,22,Loyal,26982
+0,22,Other,51174
+0,23,At Risk,516
+0,23,High Value,29035
+0,23,Loyal,13829
+0,23,Other,31431
+1,0,At Risk,357
+1,0,High Value,14069
+1,0,Loyal,7110
+1,0,Other,17024
+1,1,At Risk,277
+1,1,High Value,7357
+1,1,Loyal,2882
+1,1,Other,8350
+1,2,At Risk,95
+1,2,High Value,3990
+1,2,Loyal,1884
+1,2,Other,5163
+1,3,At Risk,89
+1,3,High Value,2427
+1,3,Loyal,1492
+1,3,Other,3297
+1,4,High Value,2801
+1,4,Loyal,1513
+1,4,Other,3605
+1,5,At Risk,42
+1,5,High Value,6495
+1,5,Loyal,2378
+1,5,Other,6064
+1,6,At Risk,191
+1,6,High Value,25873
+1,6,Loyal,9992
+1,6,Other,18825
+1,7,At Risk,216
+1,7,High Value,79247
+1,7,Loyal,31621
+1,7,Other,59796
+1,8,At Risk,1049
+1,8,High Value,155405
+1,8,Loyal,65871
+1,8,Other,121412
+1,9,At Risk,1738
+1,9,High Value,231371
+1,9,Loyal,95985
+1,9,Other,192390
+1,10,At Risk,2141
+1,10,High Value,240020
+1,10,Loyal,103225
+1,10,Other,223025
+1,11,At Risk,2642
+1,11,High Value,211265
+1,11,Loyal,96215
+1,11,Other,216444
+1,12,At Risk,1929
+1,12,High Value,186480
+1,12,Loyal,84999
+1,12,Other,206196
+1,13,At Risk,2296
+1,13,High Value,181191
+1,13,Loyal,83919
+1,13,Other,207701
+1,14,At Risk,2720
+1,14,High Value,178231
+1,14,Loyal,86419
+1,14,Other,203840
+1,15,At Risk,2115
+1,15,High Value,169852
+1,15,Loyal,81429
+1,15,Other,206368
+1,16,At Risk,2318
+1,16,High Value,155914
+1,16,Loyal,78432
+1,16,Other,198904
+1,17,At Risk,1805
+1,17,High Value,120358
+1,17,Loyal,61221
+1,17,Other,168667
+1,18,At Risk,1265
+1,18,High Value,92315
+1,18,Loyal,46150
+1,18,Other,130701
+1,19,At Risk,837
+1,19,High Value,71476
+1,19,Loyal,34689
+1,19,Other,99864
+1,20,At Risk,663
+1,20,High Value,58802
+1,20,Loyal,27589
+1,20,Other,70699
+1,21,At Risk,878
+1,21,High Value,46779
+1,21,Loyal,24260
+1,21,Other,52764
+1,22,At Risk,592
+1,22,High Value,35103
+1,22,Loyal,17570
+1,22,Other,41648
+1,23,At Risk,216
+1,23,High Value,22149
+1,23,Loyal,11074
+1,23,Other,25727
+2,0,At Risk,326
+2,0,High Value,10954
+2,0,Loyal,5225
+2,0,Other,14452
+2,1,At Risk,146
+2,1,High Value,5651
+2,1,Loyal,2408
+2,1,Other,7045
+2,2,At Risk,68
+2,2,High Value,3125
+2,2,Loyal,1509
+2,2,Other,3991
+2,3,At Risk,31
+2,3,High Value,2500
+2,3,Loyal,1293
+2,3,Other,3528
+2,4,High Value,2818
+2,4,Loyal,1142
+2,4,Other,3184
+2,5,At Risk,51
+2,5,High Value,5386
+2,5,Loyal,2486
+2,5,Other,5320
+2,6,At Risk,60
+2,6,High Value,20122
+2,6,Loyal,8544
+2,6,Other,16432
+2,7,At Risk,282
+2,7,High Value,56624
+2,7,Loyal,24277
+2,7,Other,45969
+2,8,At Risk,630
+2,8,High Value,100283
+2,8,Loyal,42062
+2,8,Other,88235
+2,9,At Risk,1210
+2,9,High Value,146913
+2,9,Loyal,60014
+2,9,Other,131781
+2,10,At Risk,1487
+2,10,High Value,153138
+2,10,Loyal,66936
+2,10,Other,150311
+2,11,At Risk,2054
+2,11,High Value,145707
+2,11,Loyal,65488
+2,11,Other,152011
+2,12,At Risk,1646
+2,12,High Value,132664
+2,12,Loyal,60256
+2,12,Other,147418
+2,13,At Risk,1574
+2,13,High Value,135013
+2,13,Loyal,59543
+2,13,Other,151847
+2,14,At Risk,1304
+2,14,High Value,134658
+2,14,Loyal,62814
+2,14,Other,149474
+2,15,At Risk,1935
+2,15,High Value,133473
+2,15,Loyal,61364
+2,15,Other,150667
+2,16,At Risk,1363
+2,16,High Value,128448
+2,16,Loyal,59650
+2,16,Other,154404
+2,17,At Risk,1153
+2,17,High Value,103409
+2,17,Loyal,51246
+2,17,Other,133851
+2,18,At Risk,943
+2,18,High Value,84214
+2,18,Loyal,40168
+2,18,Other,111436
+2,19,At Risk,633
+2,19,High Value,66023
+2,19,Loyal,29896
+2,19,Other,81641
+2,20,At Risk,852
+2,20,High Value,51850
+2,20,Loyal,22983
+2,20,Other,60569
+2,21,At Risk,523
+2,21,High Value,41605
+2,21,Loyal,19619
+2,21,Other,45151
+2,22,At Risk,475
+2,22,High Value,31388
+2,22,Loyal,15784
+2,22,Other,35824
+2,23,At Risk,246
+2,23,High Value,19806
+2,23,Loyal,10162
+2,23,Other,24186
+3,0,At Risk,77
+3,0,High Value,10326
+3,0,Loyal,5231
+3,0,Other,12879
+3,1,At Risk,38
+3,1,High Value,4806
+3,1,Loyal,2118
+3,1,Other,7243
+3,2,High Value,2947
+3,2,Loyal,1728
+3,2,Other,4436
+3,3,At Risk,58
+3,3,High Value,2101
+3,3,Loyal,844
+3,3,Other,3090
+3,4,At Risk,10
+3,4,High Value,2866
+3,4,Loyal,1176
+3,4,Other,3144
+3,5,At Risk,22
+3,5,High Value,5031
+3,5,Loyal,1991
+3,5,Other,5209
+3,6,At Risk,197
+3,6,High Value,18948
+3,6,Loyal,7913
+3,6,Other,15368
+3,7,At Risk,634
+3,7,High Value,52506
+3,7,Loyal,21362
+3,7,Other,40623
+3,8,At Risk,556
+3,8,High Value,91920
+3,8,Loyal,36815
+3,8,Other,77080
+3,9,At Risk,852
+3,9,High Value,127234
+3,9,Loyal,50005
+3,9,Other,109957
+3,10,At Risk,1441
+3,10,High Value,140166
+3,10,Loyal,55167
+3,10,Other,128717
+3,11,At Risk,1269
+3,11,High Value,132614
+3,11,Loyal,55924
+3,11,Other,133922
+3,12,At Risk,1708
+3,12,High Value,122388
+3,12,Loyal,54490
+3,12,Other,129723
+3,13,At Risk,1717
+3,13,High Value,125624
+3,13,Loyal,55179
+3,13,Other,132479
+3,14,At Risk,1453
+3,14,High Value,126790
+3,14,Loyal,55323
+3,14,Other,132587
+3,15,At Risk,1786
+3,15,High Value,130049
+3,15,Loyal,56527
+3,15,Other,138426
+3,16,At Risk,1406
+3,16,High Value,121657
+3,16,Loyal,55713
+3,16,Other,139879
+3,17,At Risk,1509
+3,17,High Value,100979
+3,17,Loyal,47610
+3,17,Other,122479
+3,18,At Risk,726
+3,18,High Value,79819
+3,18,Loyal,39107
+3,18,Other,102596
+3,19,At Risk,849
+3,19,High Value,62845
+3,19,Loyal,29506
+3,19,Other,78272
+3,20,At Risk,704
+3,20,High Value,49454
+3,20,Loyal,23144
+3,20,Other,53816
+3,21,At Risk,790
+3,21,High Value,41738
+3,21,Loyal,20015
+3,21,Other,41795
+3,22,At Risk,462
+3,22,High Value,33013
+3,22,Loyal,15996
+3,22,Other,35401
+3,23,At Risk,438
+3,23,High Value,19385
+3,23,Loyal,9410
+3,23,Other,23175
+4,0,At Risk,194
+4,0,High Value,9561
+4,0,Loyal,4047
+4,0,Other,11938
+4,1,At Risk,134
+4,1,High Value,5052
+4,1,Loyal,2106
+4,1,Other,6989
+4,2,At Risk,61
+4,2,High Value,2832
+4,2,Loyal,1283
+4,2,Other,4258
+4,3,At Risk,24
+4,3,High Value,2072
+4,3,Loyal,1091
+4,3,Other,3409
+4,4,At Risk,79
+4,4,High Value,2510
+4,4,Loyal,1256
+4,4,Other,3337
+4,5,At Risk,9
+4,5,High Value,4785
+4,5,Loyal,2567
+4,5,Other,5199
+4,6,At Risk,159
+4,6,High Value,19364
+4,6,Loyal,8031
+4,6,Other,14055
+4,7,At Risk,583
+4,7,High Value,53987
+4,7,Loyal,23230
+4,7,Other,40305
+4,8,At Risk,524
+4,8,High Value,91076
+4,8,Loyal,36950
+4,8,Other,73258
+4,9,At Risk,1075
+4,9,High Value,125344
+4,9,Loyal,48799
+4,9,Other,105619
+4,10,At Risk,1585
+4,10,High Value,135502
+4,10,Loyal,56623
+4,10,Other,124087
+4,11,At Risk,1415
+4,11,High Value,131092
+4,11,Loyal,54544
+4,11,Other,126074
+4,12,At Risk,1333
+4,12,High Value,121947
+4,12,Loyal,52858
+4,12,Other,124923
+4,13,At Risk,1443
+4,13,High Value,122486
+4,13,Loyal,55261
+4,13,Other,126435
+4,14,At Risk,1642
+4,14,High Value,125825
+4,14,Loyal,54380
+4,14,Other,127526
+4,15,At Risk,1626
+4,15,High Value,125800
+4,15,Loyal,54428
+4,15,Other,130287
+4,16,At Risk,1461
+4,16,High Value,124591
+4,16,Loyal,54572
+4,16,Other,129248
+4,17,At Risk,1050
+4,17,High Value,102173
+4,17,Loyal,47541
+4,17,Other,114206
+4,18,At Risk,801
+4,18,High Value,80546
+4,18,Loyal,38291
+4,18,Other,96892
+4,19,At Risk,857
+4,19,High Value,65635
+4,19,Loyal,32209
+4,19,Other,77431
+4,20,At Risk,587
+4,20,High Value,53288
+4,20,Loyal,26542
+4,20,Other,55412
+4,21,At Risk,386
+4,21,High Value,45444
+4,21,Loyal,23308
+4,21,Other,43617
+4,22,At Risk,872
+4,22,High Value,36222
+4,22,Loyal,19294
+4,22,Other,37169
+4,23,At Risk,124
+4,23,High Value,21901
+4,23,Loyal,10865
+4,23,Other,23887
+5,0,At Risk,79
+5,0,High Value,11595
+5,0,Loyal,5332
+5,0,Other,13884
+5,1,At Risk,70
+5,1,High Value,5594
+5,1,Loyal,2461
+5,1,Other,7932
+5,2,At Risk,18
+5,2,High Value,3874
+5,2,Loyal,1334
+5,2,Other,4668
+5,3,At Risk,35
+5,3,High Value,2721
+5,3,Loyal,1800
+5,3,Other,4148
+5,4,At Risk,39
+5,4,High Value,3424
+5,4,Loyal,1629
+5,4,Other,4140
+5,5,At Risk,107
+5,5,High Value,6250
+5,5,Loyal,3217
+5,5,Other,5794
+5,6,At Risk,204
+5,6,High Value,21188
+5,6,Loyal,9800
+5,6,Other,16997
+5,7,At Risk,351
+5,7,High Value,58812
+5,7,Loyal,27326
+5,7,Other,47950
+5,8,At Risk,672
+5,8,High Value,102601
+5,8,Loyal,44166
+5,8,Other,85467
+5,9,At Risk,871
+5,9,High Value,142153
+5,9,Loyal,61712
+5,9,Other,123026
+5,10,At Risk,1747
+5,10,High Value,159041
+5,10,Loyal,69229
+5,10,Other,139266
+5,11,At Risk,1409
+5,11,High Value,152776
+5,11,Loyal,67158
+5,11,Other,147355
+5,12,At Risk,1722
+5,12,High Value,139250
+5,12,Loyal,63312
+5,12,Other,144416
+5,13,At Risk,1432
+5,13,High Value,142698
+5,13,Loyal,64096
+5,13,Other,142452
+5,14,At Risk,1537
+5,14,High Value,148076
+5,14,Loyal,65778
+5,14,Other,145271
+5,15,At Risk,1060
+5,15,High Value,147673
+5,15,Loyal,65036
+5,15,Other,143568
+5,16,At Risk,1373
+5,16,High Value,136712
+5,16,Loyal,61478
+5,16,Other,140860
+5,17,At Risk,1027
+5,17,High Value,110258
+5,17,Loyal,51417
+5,17,Other,119583
+5,18,At Risk,854
+5,18,High Value,83495
+5,18,Loyal,41488
+5,18,Other,101692
+5,19,At Risk,703
+5,19,High Value,63873
+5,19,Loyal,32430
+5,19,Other,77791
+5,20,At Risk,415
+5,20,High Value,48647
+5,20,Loyal,26219
+5,20,Other,55648
+5,21,At Risk,422
+5,21,High Value,38129
+5,21,Loyal,21664
+5,21,Other,43105
+5,22,At Risk,304
+5,22,High Value,30609
+5,22,Loyal,17199
+5,22,Other,34055
+5,23,At Risk,261
+5,23,High Value,20595
+5,23,Loyal,10444
+5,23,Other,24894
+6,0,At Risk,225
+6,0,High Value,12040
+6,0,Loyal,5743
+6,0,Other,14919
+6,1,At Risk,37
+6,1,High Value,6565
+6,1,Loyal,3839
+6,1,Other,8665
+6,2,At Risk,40
+6,2,High Value,4383
+6,2,Loyal,2392
+6,2,Other,5015
+6,3,At Risk,42
+6,3,High Value,2841
+6,3,Loyal,1404
+6,3,Other,4047
+6,4,At Risk,20
+6,4,High Value,3015
+6,4,Loyal,1610
+6,4,Other,3657
+6,5,At Risk,73
+6,5,High Value,4451
+6,5,Loyal,2221
+6,5,Other,4519
+6,6,At Risk,138
+6,6,High Value,13635
+6,6,Loyal,6851
+6,6,Other,13330
+6,7,At Risk,488
+6,7,High Value,52649
+6,7,Loyal,23492
+6,7,Other,45506
+6,8,At Risk,1115
+6,8,High Value,100838
+6,8,Loyal,51216
+6,8,Other,96231
+6,9,At Risk,1341
+6,9,High Value,124336
+6,9,Loyal,64053
+6,9,Other,140454
+6,10,At Risk,1426
+6,10,High Value,134847
+6,10,Loyal,71848
+6,10,Other,170965
+6,11,At Risk,2020
+6,11,High Value,135140
+6,11,Loyal,73833
+6,11,Other,180063
+6,12,At Risk,1926
+6,12,High Value,134844
+6,12,Loyal,71499
+6,12,Other,181652
+6,13,At Risk,1723
+6,13,High Value,136384
+6,13,Loyal,75808
+6,13,Other,182618
+6,14,At Risk,1996
+6,14,High Value,143280
+6,14,Loyal,77339
+6,14,Other,186759
+6,15,At Risk,1751
+6,15,High Value,138833
+6,15,Loyal,73806
+6,15,Other,181585
+6,16,At Risk,1835
+6,16,High Value,126844
+6,16,Loyal,69488
+6,16,Other,173237
+6,17,At Risk,1451
+6,17,High Value,103802
+6,17,Loyal,55983
+6,17,Other,146815
+6,18,At Risk,1043
+6,18,High Value,82248
+6,18,Loyal,42326
+6,18,Other,115234
+6,19,At Risk,510
+6,19,High Value,64514
+6,19,Loyal,33550
+6,19,Other,82495
+6,20,At Risk,498
+6,20,High Value,49859
+6,20,Loyal,25698
+6,20,Other,61128
+6,21,At Risk,571
+6,21,High Value,42873
+6,21,Loyal,23081
+6,21,Other,51108
+6,22,At Risk,461
+6,22,High Value,35021
+6,22,Loyal,19817
+6,22,Other,40883
+6,23,At Risk,237
+6,23,High Value,23765
+6,23,Loyal,12873
+6,23,Other,28954

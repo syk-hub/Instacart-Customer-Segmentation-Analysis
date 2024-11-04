@@ -1,0 +1,29 @@
+order_dow,segment,order_count
+0,At Risk,27869
+0,High Value,2253399
+0,Loyal,1245099
+0,Other,3007325
+1,At Risk,26471
+1,High Value,2298970
+1,Loyal,1057919
+1,Other,2488474
+2,At Risk,18992
+2,High Value,1715772
+2,Loyal,774869
+2,Other,1868727
+3,At Risk,18702
+3,High Value,1605206
+3,Loyal,702294
+3,Other,1672296
+4,At Risk,18024
+4,High Value,1609035
+4,Loyal,710076
+4,Other,1605561
+5,At Risk,16712
+5,High Value,1780044
+5,Loyal,815725
+5,Other,1773962
+6,At Risk,20967
+6,High Value,1677007
+6,Loyal,889770
+6,Other,2119839
