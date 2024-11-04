@@ -14,7 +14,7 @@ This project explores customer purchasing patterns using Instacart transaction d
 - **Retention Strategies for At-Risk Customers**: Re-engage at-risk customers with special offers on products they previously purchased.
 
 ## Technology and Tools
-- **Data Preparation**: Data cleaning, segmentation, and formatting were conducted in Python using Jupyter Notebook. You can view the full notebook with data preparation steps [here](link-to-your-notebook).
+- **Data Preparation**: Data cleaning, segmentation, and formatting were conducted in Python using Jupyter Notebook. You can view the full notebook with data preparation steps [here](https://github.com/syk-hub/Instacart-Customer-Segmentation-Analysis/blob/main/customer_segmentation_v2.ipynb).
 
 - **Visualization**: Tableau for creating an interactive dashboard with customer insights.
 
